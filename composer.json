@@ -19,7 +19,8 @@
         "php": ">=7.1"
     },
     "autoload": {
-        
-    },
-    "target-dir" : "Reaccionestudio/gdpr-bundle"
+        "psr-4": {
+            "ReaccionEstudio\\GdprBundle\\" : "src/"
+        }
+    }
 }
