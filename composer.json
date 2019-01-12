@@ -1,0 +1,25 @@
+{
+    "name" : "reaccionestudio/gdpr-bundle",
+    "type" : "symfony-bundle",
+    "description" : "Symfony 4 GDPR bundle",
+    "keywords" : ["Symfony", "GDPR"],
+    "homepage" : "https://github.com/ReaccionEstudio/ReaccionGdprBundle",
+    "license" : "MIT",
+    "authors" :
+    [
+        {
+            "name" : "Alberto Vian Hernandez",
+            "email" : "alberto@reaccionestudio.com",
+            "homepage" : "https://www.reaccionestudio.com",
+            "role" : "Software developer"
+        }
+    ],
+    "minimum-stability" : "beta",
+    "require": {
+        "php": ">=7.1"
+    },
+    "autoload": {
+        
+    },
+    "target-dir" : "Reaccionestudio/gdpr-bundle"
+}
