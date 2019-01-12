@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-namespace ReaccionEstudio\GdprBundle;
+namespace App\ReaccionEstudio\ReaccionGdprBundle;
 
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 
